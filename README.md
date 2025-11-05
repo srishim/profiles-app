@@ -1,7 +1,27 @@
+===================================================================================================================
+# PART 1 
+**README with a small description of what this app is. Feel free to write anything.**
 # React-Bootstrap Hello React
-
 A Vite + React app that installs **React-Bootstrap** and **Bootstrap**, and renders a primary Alert saying **“Hello React”**.
+**Link to commit that introduced React-Bootstrap and “Hello React”.**
+https://github.com/srishim/profiles-app/commit/5beddea0dbeb68b7f494595f3cfc5dddb4031d7f
+-------------------------------------------------------------------------------------------------------------------
 
+# PART 2
+**Add the live link to your README.**
+https://srishim.github.io/profiles-app/
+
+
+
+
+
+
+
+
+
+
+
+===================================================================================================================
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
