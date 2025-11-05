@@ -1,3 +1,7 @@
+# React-Bootstrap Hello React
+
+A Vite + React app that installs **React-Bootstrap** and **Bootstrap**, and renders a primary Alert saying **“Hello React”**.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
