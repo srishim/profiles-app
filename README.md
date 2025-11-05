@@ -12,15 +12,6 @@ https://github.com/srishim/profiles-app/commit/5beddea0dbeb68b7f494595f3cfc5dddb
 https://srishim.github.io/profiles-app/
 
 
-
-
-
-
-
-
-
-
-
 ===================================================================================================================
 # React + Vite
 
