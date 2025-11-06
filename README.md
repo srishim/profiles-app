@@ -1,4 +1,4 @@
-# Profiles App (Lab 1)
+# Profiles App
 
 A minimal **Vite + React** app styled with **React-Bootstrap**. Deployed to **GitHub Pages** via **GitHub Actions**.
 
