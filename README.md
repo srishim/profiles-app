@@ -1,30 +1,39 @@
-===================================================================================================================
-# PART 1 
-**README with a small description of what this app is. Feel free to write anything.**
-# React-Bootstrap Hello React
-A Vite + React app that installs **React-Bootstrap** and **Bootstrap**, and renders a primary Alert saying **“Hello React”**.
-**Link to commit that introduced React-Bootstrap and “Hello React”.**
-https://github.com/srishim/profiles-app/commit/5beddea0dbeb68b7f494595f3cfc5dddb4031d7f
--------------------------------------------------------------------------------------------------------------------
+# Profiles App (Lab 1)
 
-# PART 2
-**Add the live link to your README.**
-https://srishim.github.io/profiles-app/
+A minimal **Vite + React** app styled with **React-Bootstrap**. Deployed to **GitHub Pages** via **GitHub Actions**.
 
-===================================================================================================================
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Demo (Part 2)
+**https://srishim.github.io/profiles-app/**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deliverables
 
-## React Compiler
+### Part 1 — Vite + React + React-Bootstrap
+- **Commit link:** https://github.com/srishim/profiles-app/commit/5beddea0dbeb68b7f494595f3cfc5dddb4031d7f  
+- **Screenshot:** ![Part 1](<screenshots/part-1 screenshot.png>)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Part 2 — Deploy to GitHub Pages (CI)
+- **Live link:** https://srishim.github.io/profiles-app/
 
-## Expanding the ESLint configuration
+### Part 3 — Components, Props, `.map()`
+- **Commit diff:** https://github.com/srishim/profiles-app/commit/c3658ebd974f37fedbb97737e6fdc9a2e68e4275  
+- **Screenshot:** ![Part 3](<screenshots/part-3 rendered cards.png>)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Part 5 — Forms & Validation
+- **Demo GIF:** ![Part 5](screenshots/part-5.gif)
+
+---
+
+## Tech Stack
+- React (Vite)
+- React-Bootstrap, Bootstrap
+- GitHub Actions (Pages)
+
+## Getting Started
+```bash
+npm install
+npm run dev
+# open http://localhost:5173
